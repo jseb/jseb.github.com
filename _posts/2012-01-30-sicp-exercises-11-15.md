@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SICP exercises 1.1 - 1.5"
-category: SICP
+category: SICP - wizard book
 tags: [ SICP solutions, done-and-done ]
 ---
 {% include JB/setup %}
