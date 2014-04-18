@@ -5,6 +5,7 @@ category: SICP - wizard book
 tags: [ SICP solutions, done-and-done ]
 ---
 {% include JB/setup %}
+
 <h4 id="exercise-1.1">Exercise 1.1</h4>
 <p>Below is a sequence of expressions. What is the result printed by the interpreter in response to each expression? Assume that the sequence is to be evaluated in the order in which it is presented.</p>
 <pre><code>10

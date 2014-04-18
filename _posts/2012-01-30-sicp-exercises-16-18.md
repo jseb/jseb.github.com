@@ -5,6 +5,7 @@ category: SICP - wizard book
 tags: [ SICP solutions, WIP ]
 ---
 {% include JB/setup %}
+
 <h4 id="exercise-1.6">Exercise 1.6</h4>
 <p>Alyssa P. Hacker doesn't see why <code>if</code> needs to be provided as a special form. &quot;Why can't I just define it as an ordinary procedure in terms of <code>cond</code>?&quot; she asks. Alyssa's friend Eva Lu Ator claims this can indeed be done, and she defines a new version of <code>if</code>:</p>
 <pre><code>(define (new-if predicate then-clause else-clause)
