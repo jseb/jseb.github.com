@@ -9,8 +9,8 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : TIL - learning by doing
-tagline: Site Tagline
+title : jseb
+tagline: Learning by Doing
 author :
   name : Joel Andersson
   email : joel@acc.umu.se
