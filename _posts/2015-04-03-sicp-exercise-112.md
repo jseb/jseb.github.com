@@ -6,7 +6,7 @@ tags: [ SICP solutions, done-and-done ]
 ---
 {% include JB/setup %}
 
-#### Exercise 1.9
+#### Exercise 1.12
 The following pattern of numbers is called *Pascal's triangle*.
 
 $$
